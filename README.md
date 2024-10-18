@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed:
 
 - To clone the repository, run the following command:
 
-- git clone https://github.com/yourusername/fullstack-project.git
+- git clone https://github.com/marvensherif/user-management
 
 - cd fullstack-project
 
@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed:
 - CREATE DATABASE MyDatabase;
 - Open the appsettings.json
 - "ConnectionStrings": {
-"DefaultConnection": "Server=localhost;MyDatabase=kemet_task_db;User=yourusername;Password=yourpassword;"
+"DefaultConnection": "Server=localhost;MyDatabase=MyDatabase;User=yourusername;Password=yourpassword;"
 }
 
 ### Apply database migrations:
